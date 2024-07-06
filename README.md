@@ -1,16 +1,40 @@
-# login_signup
+# Tudo Task Firebase
 
-A new Flutter project.
+Registration:
+
+Users can register for a new account by providing their email and password.
+
+Login: 
+Users can log in using their registered email and password
+
+Home Page: 
+The home page displays a list of tasks associated with the logged-in user  
+Users can add new tasks using a form that includes fields for the task title and description. 
+Each task item has an option to edit the task.
+Each task item has a delete option
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with CarHaina Authentication, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repository to your local machine:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Navigate to the project directory:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Run the app:
+
+## Pictures
+
+Here are some screenshots of the Tudo Task Authentication app:
+![Blue Modern Mobile Application Presentation](https://github.com/FahadFarooq40/Tudo-Task-with-Firebase/assets/104043766/41c0c822-30f7-425f-a702-ddf7f3ccc391)
+
+
+For more information on Flutter development and to explore sample code, you can refer to the following resources:
+
+- [Flutter Documentation](https://docs.flutter.dev/)
+- [Flutter Codelabs](https://docs.flutter.dev/get-started/codelab)
+- [Flutter Cookbook](https://docs.flutter.dev/cookbook)
+
+Feel free to contribute to the project by opening issues or submitting pull requests.
+
+Happy coding!
