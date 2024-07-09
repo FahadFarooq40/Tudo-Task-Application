@@ -35,6 +35,5 @@ For more information on Flutter development and to explore sample code, you can 
 - [Flutter Codelabs](https://docs.flutter.dev/get-started/codelab)
 - [Flutter Cookbook](https://docs.flutter.dev/cookbook)
 
-Feel free to contribute to the project by opening issues or submitting pull requests.
 
 Happy coding!
